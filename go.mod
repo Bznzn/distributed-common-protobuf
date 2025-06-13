@@ -1,4 +1,4 @@
-module github.com/Bznzn/distributed-common-protobuf
+module github.com/Bznzn/distributed-common-protobuf/user
 
 go 1.23.2
 
